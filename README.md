@@ -1,8 +1,8 @@
-# Experiments with Flutter
+# Expandable Menu Animation Experiment
 
 Ideas and design sources are the inspiration of this project
 
 ### Preview
-1                  
+Menu View                  
 :-----------------:
-![](preview/ic_launcher.png) 
+![](preview/1.png) 
