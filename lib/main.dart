@@ -1,4 +1,4 @@
-import 'package:experiments_with_flutter/home.dart';
+import 'package:experiments_with_flutter/splash_intro.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -8,6 +8,6 @@ void main() {
 class ExperimentalApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(home: Home(), debugShowCheckedModeBanner: false);
+    return MaterialApp(home: SplashIntro(), debugShowCheckedModeBanner: false);
   }
 }
