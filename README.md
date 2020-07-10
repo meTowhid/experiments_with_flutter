@@ -1,8 +1,8 @@
-# Experiments with Flutter
+# Trigonometric Circles
 
-Ideas and design sources are the inspiration of this project
+Dream test
 
 ### Preview
-1                  
-:-----------------:
-![](preview/ic_launcher.png) 
+Circles 1          | Circles 2
+:-----------------:|:-----------------:
+![](preview/1.png) |![](preview/2.png) 
