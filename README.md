@@ -1,8 +1,8 @@
-# Experiments with Flutter
+# Block Tap Indicator Animation
 
 Ideas and design sources are the inspiration of this project
 
 ### Preview
-1                  
+Animated Block Indicator                  
 :-----------------:
-![](preview/ic_launcher.png) 
+![](preview/1.png) 
