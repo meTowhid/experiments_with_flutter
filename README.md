@@ -1,5 +1,7 @@
 # Elgrave Ecommerce App Design
-[Design Link] (https://dribbble.com/shots/6925330-Elgrave-Ecommerce-App-Design/attachments)
+[Design Link](https://dribbble.com/shots/6925330-Elgrave-Ecommerce-App-Design/attachments)
 
-##Preview
-![Home](preview/home_page.png) ![Details](preview/details_page.png)
+### Preview
+Home                       |  Details
+:-------------------------:|:-------------------------:
+![](preview/home_page.png) |  ![](preview/details_page.png)
